@@ -10,16 +10,20 @@
     "external_url": null,
     "attributes": [
       {
-        "trait_type": "Hat",
-        "value": "Top Hat"
+        "trait_type": "backgrounds",
+        "value": "forest"
       },
       {
-        "trait_type": "Coat",
-        "value": "Tails"
+        "trait_type": "animals",
+        "value": "lion"
       },
       {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
+        "trait_type": "outerwear",
+        "value": "beige cloak"
+      },
+      {
+        "trait_type": "weapons",
+        "value": "gun yellow"
       }
     ]
   }
