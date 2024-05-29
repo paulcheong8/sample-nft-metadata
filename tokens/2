@@ -10,16 +10,20 @@
     "external_url": null,
     "attributes": [
       {
-        "trait_type": "Hat",
-        "value": "Top Hat"
+        "trait_type": "backgrounds",
+        "value": "lava"
       },
       {
-        "trait_type": "Coat",
-        "value": "Tails"
+        "trait_type": "animals",
+        "value": "crocodile"
       },
       {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
+        "trait_type": "outerwear",
+        "value": "black cloak"
+      },
+      {
+        "trait_type": "weapons",
+        "value": "red light saber"
       }
     ]
   }
